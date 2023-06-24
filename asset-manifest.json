@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.95719ce7.css",
-    "main.js": "/static/js/main.f144b3ad.js",
+    "main.js": "/static/js/main.d009a162.js",
     "static/media/Resume-AkshayAravind.pdf": "/static/media/Resume-AkshayAravind.e7f0e5d335190dc14d40.pdf",
     "index.html": "/index.html",
     "main.95719ce7.css.map": "/static/css/main.95719ce7.css.map",
-    "main.f144b3ad.js.map": "/static/js/main.f144b3ad.js.map"
+    "main.d009a162.js.map": "/static/js/main.d009a162.js.map"
   },
   "entrypoints": [
     "static/css/main.95719ce7.css",
-    "static/js/main.f144b3ad.js"
+    "static/js/main.d009a162.js"
   ]
 }
