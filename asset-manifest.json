@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.013e129c.css",
-    "main.js": "/static/js/main.3addafc6.js",
+    "main.js": "/static/js/main.eedf8b01.js",
     "static/media/fitnessAILogo.png": "/static/media/fitnessAILogo.6fae54da5708710a09e5.png",
     "static/media/Resume-AkshayAravind.pdf": "/static/media/Resume-AkshayAravind.3e5b3c6ffcf6601b7cf5.pdf",
     "static/media/favicon.png": "/static/media/favicon.50505287a322838647dc.png",
     "index.html": "/index.html",
     "main.013e129c.css.map": "/static/css/main.013e129c.css.map",
-    "main.3addafc6.js.map": "/static/js/main.3addafc6.js.map"
+    "main.eedf8b01.js.map": "/static/js/main.eedf8b01.js.map"
   },
   "entrypoints": [
     "static/css/main.013e129c.css",
-    "static/js/main.3addafc6.js"
+    "static/js/main.eedf8b01.js"
   ]
 }
