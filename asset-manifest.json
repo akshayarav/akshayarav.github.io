@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.013e129c.css",
-    "main.js": "/static/js/main.823e6373.js",
-    "static/media/fitnessAILogo.png": "/static/media/fitnessAILogo.6fae54da5708710a09e5.png",
-    "static/media/Resume-AkshayAravind.pdf": "/static/media/Resume-AkshayAravind.c062ed59b06c9ede9335.pdf",
-    "static/media/favicon.png": "/static/media/favicon.50505287a322838647dc.png",
-    "index.html": "/index.html",
-    "main.013e129c.css.map": "/static/css/main.013e129c.css.map",
-    "main.823e6373.js.map": "/static/js/main.823e6373.js.map"
+    "main.css": "/react-gh-pages/static/css/main.0571d1b7.css",
+    "main.js": "/react-gh-pages/static/js/main.2a48429a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/react-gh-pages/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.png": "/react-gh-pages/static/media/avatar.12f61970429d8413b5af.png",
+    "static/media/coding.jpg": "/react-gh-pages/static/media/coding.98de68a478c8878629d3.jpg",
+    "static/media/nature.jpg": "/react-gh-pages/static/media/nature.08ac30434fa7b9f999e8.jpg",
+    "static/media/fitnessAILogo.png": "/react-gh-pages/static/media/fitnessAILogo.6fae54da5708710a09e5.png",
+    "static/media/Resume-AkshayAravind.pdf": "/react-gh-pages/static/media/Resume-AkshayAravind.8faad4a20a176f105f0f.pdf",
+    "static/media/home-bg.jpg": "/react-gh-pages/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/react-gh-pages/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.0571d1b7.css.map": "/react-gh-pages/static/css/main.0571d1b7.css.map",
+    "main.2a48429a.js.map": "/react-gh-pages/static/js/main.2a48429a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/react-gh-pages/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.013e129c.css",
-    "static/js/main.823e6373.js"
+    "static/css/main.0571d1b7.css",
+    "static/js/main.2a48429a.js"
   ]
 }
