@@ -1,24 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.89537d6f.css",
-    "main.js": "/static/js/main.e89ddce1.js",
-    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/static/css/main.81f00823.css",
+    "main.js": "/static/js/main.8dab9137.js",
+    "static/js/453.5d79306b.chunk.js": "/static/js/453.5d79306b.chunk.js",
     "static/media/avatar.png": "/static/media/avatar.12f61970429d8413b5af.png",
-    "static/media/coding.jpg": "/static/media/coding.98de68a478c8878629d3.jpg",
     "static/media/nature.jpg": "/static/media/nature.08ac30434fa7b9f999e8.jpg",
-    "static/media/fitnessAILogo.png": "/static/media/fitnessAILogo.6fae54da5708710a09e5.png",
-    "static/media/Resume-AkshayAravind.pdf": "/static/media/Resume-AkshayAravind.99dacedbb1b6a5cdec30.pdf",
-    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.89537d6f.css.map": "/static/css/main.89537d6f.css.map",
-    "main.e89ddce1.js.map": "/static/js/main.e89ddce1.js.map",
-    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.81f00823.css.map": "/static/css/main.81f00823.css.map",
+    "main.8dab9137.js.map": "/static/js/main.8dab9137.js.map",
+    "453.5d79306b.chunk.js.map": "/static/js/453.5d79306b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89537d6f.css",
-    "static/js/main.e89ddce1.js"
+    "static/css/main.81f00823.css",
+    "static/js/main.8dab9137.js"
   ]
 }
